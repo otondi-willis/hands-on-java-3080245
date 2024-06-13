@@ -28,5 +28,10 @@ public class Account {
   public void setBalance(double balance) {
     this.balance = balance;
   }
-  
+  public void deposit(double amount){
+
+  }
+  public void withdraw(double amount){
+
+  }
 }
